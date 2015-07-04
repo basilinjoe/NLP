@@ -1,3 +1,4 @@
+# Program to extract noun and verb from a sentence 
 import nltk
 from nltk.corpus import wordnet as wn
 def pos_token(string):
